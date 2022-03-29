@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+# Tik Tak Toe
+
+This is a test task for implementing the app using the following design - https://www.figma.com/file/DvWcUJGtjcjmu6rCw3zZf4/Coding-Challenge?node-id=0%3A1
+
+
+## Project structure
+It's used **typescript** as main language.
+- `assets` - contains fonts and images in corresponding folders.
+- `types` - contains all types used in the project 
+- `components` - contains separated `.tsx` files for each component used, also with corresponding **styles.css** file.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
